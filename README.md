@@ -1,2 +1,6 @@
-# 3-04.17
-24.04.17 테스트용 레포
+#include <stdio.h>
+
+int main(void){
+    printf("이 프로그램의 정의찬의 첫 작품입니다.^^");
+    return 0;
+}
